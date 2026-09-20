@@ -1,0 +1,25 @@
+
+body {
+  background-image: radial-gradient(#4446aa, #000000);
+}
+
+
+pre {
+  font-family: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+  font-weight: 900;
+  max-width: 50ch;
+  margin: 0 auto;
+  font-size: 1.3rem;
+  font-style: bold;
+  line-height: 1.2rem;
+  text-align: center;
+  transition: color 0.9s ease-in-out;
+  color: #f88196;
+  
+  
+}
+
+pre:hover {
+  color: #96bfcb;
+}
+
